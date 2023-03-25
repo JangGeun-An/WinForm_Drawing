@@ -1,0 +1,11 @@
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Zeek\source\repos\Drawing\bin\Debug\Drawing.exe
+C:\Users\Zeek\source\repos\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.exe
+C:\Users\Zeek\source\repos\Drawing\obj\Debug\Drawing.pdb
